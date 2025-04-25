@@ -1,0 +1,9 @@
+{
+	"name": "Azuredatainstance12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d589e3d-5570-4be6-bfff-d1f675a4db1a",
+		"tenantId": "479bf57f-0b3b-4eb9-b32b-dce7882085ee"
+	}
+}
